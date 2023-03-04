@@ -1,1 +1,2 @@
-tt
+print('próba1')
+
